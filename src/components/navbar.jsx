@@ -57,7 +57,7 @@ const Navbar = () => {
         </div>
       )}
     </div>
-        <Link href="https://www.linkedin.com/in/unmesh-ghosh/">
+        <Link href="https://www.linkedin.com/in/unmesh100/">
           <Image
             src="https://i.imgur.com/rTmhUoK.png"
             alt="github"
